@@ -1,7 +1,7 @@
 Exercises taken from Freecodecamp's Youtube channel. Here's the [Video](https://www.youtube.com/watch?v=XVv6mJpFOb0)
 
 1) In webscraping.py there is a code that access this [website](https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=python&txtLocation=) (a website for job search; having searched "python jobs") and extracts some information using :
-/*:
+
 * latest jobs
 * company name
 * linkk for further info
