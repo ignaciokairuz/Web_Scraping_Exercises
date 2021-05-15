@@ -6,5 +6,5 @@ Exercises taken from Freecodecamp's Youtube channel. Here's the [Video](https://
 * company name
 * linkk for further info
 * required skills
-*/
+
 You type your own skills at the beginning of the code and if they match with any of the posted jobs' ones a text file with said information will appear in the posts directory. This action is repeated every 10 minutes as long as the program is running. 
