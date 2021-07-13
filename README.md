@@ -2,10 +2,9 @@ Note: Even if currently functional this project is under development. Having sai
 
 This webscraper access this [website](https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=python&txtLocation=) (a website for job search; having searched "python jobs") then selects the jobs that have the required specificities that I ask it like:
 
-* industy
+* Industry
 * Company name
-* current 
-* amount of people that have already applied 
+* Current amount of people that have already applied 
 * salary 
 * seniority 
 * location 
